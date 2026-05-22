@@ -167,7 +167,8 @@ Centre for Development of Advanced Computing (C-DAC)
 - 💼 [LinkedIn](https://linkedin.com/in/shivansh-rastogi-9917a513/)
 - 📂 [Portfolio Website](https://github.com/srastogi82)  
 - 🐙 [GitHub](https://github.com/srastogi82)
-- 📄 [Download Resume](https://srastogi82.github.io/shivansh_rastogi-resume/Shivansh_Rastogi-resume.pdf)
+- 📄 [![Download Resume](https://img.shields.io/badge/Download-Resume-blue)](https://srastogi82.github.io/shivansh_rastogi-resume/Shivansh_Rastogi-resume.pdf)
+- 
   
 
 ---
